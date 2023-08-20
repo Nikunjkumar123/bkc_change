@@ -3,6 +3,10 @@
   font-size: 4rem;
 }
 
+.body{
+  height: auto;
+}
+
 .box1{
   display: flex;
   text-align: center;
